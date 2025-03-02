@@ -1,4 +1,4 @@
-Hi 👋 My name is Yentl!<br> ======================= <br> Data Scientist \* Machine Learning Engineer <br> ------------------------------------------- <br> * 🌍  I'm based in Chicago but love to work remote <br> * 🖥️  See my portfolio at [YentlLove.com](http://yentllove.com) <br> * 🤝  I'm open to collaborating on projects <br> * ⚡  I have a superpower 🤫
+Hi 👋 My name is Yentl!<br> ======================= <br> <br> ------------------------------------------- <br> * 🌍  I'm based in Chicago but love to work remote <br> * 🖥️  See my portfolio at [YentlLove.com](http://yentllove.com) <br> * 🤝  I'm open to collaborating on projects <br> * ⚡  I have a superpower 🤫
 
 ### Skills  
 
